@@ -3,7 +3,9 @@
   
 ## Image Editor — Java, Swing, IntelliJ
   • Created a Java Swing application using MVC architecture to generate new images and apply filters on an image
+  
   •	Edited images of different types by loading in app and applied filters like blur, sharpen, greyscale, sepia, dither and mosaic
+  
   •	Designed a user interface using java swing containing the options to load and save edited and generated images
 
 ## Note
