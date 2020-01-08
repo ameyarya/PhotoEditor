@@ -9,5 +9,5 @@
   •	Designed a user interface using java swing containing the options to load and save edited and generated images
 
 ## Note
-#This repository is kept private so as to ensure that the code could not be copied by other fellow students taking the course in the future.
-#If you are a recruiter and would like to see the source code of this project, kindly email me at arya.am@husky.neu.edu. 
+### This repository is kept private so as to ensure that the code could not be copied by other fellow students taking the course in the future.
+### If you are a recruiter and would like to see the source code of this project, kindly email me at arya.am@husky.neu.edu. 
